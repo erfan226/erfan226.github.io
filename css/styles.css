@@ -69,3 +69,10 @@ main > .tagline {
 	width: 2.65rem;
 	height: 2.65rem;
 }
+
+.pro-img{
+	border-radius: 50%;
+	border: 2px solid purple;
+	width: 150px;
+	margin: 0 auto;
+}
