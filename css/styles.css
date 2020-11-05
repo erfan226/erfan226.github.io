@@ -51,9 +51,14 @@ main > .intro {
 }
 
 main > .tagline {
-  font-size: 1.5rem;
+  font-size: 1.1rem;
   margin: 1.5rem 0;
   font-weight: 100;
+}
+
+main > .tagline span.underline {
+  border-bottom: 1px solid white;
+  padding: 5px 0px;
 }
 
 .devto {
@@ -67,9 +72,15 @@ main > .tagline {
   height: 2.65rem;
 }
 
-.pro-img {
+.profile-img {
   border-radius: 50%;
   border: 2px solid white;
   width: 150px;
   margin: 0 auto;
+}
+
+.notice {
+  font-size: .9rem;
+  margin: 1.5rem 0;
+  font-weight: 100;
 }
