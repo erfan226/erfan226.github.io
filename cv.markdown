@@ -31,7 +31,7 @@ Looking for the PDF version? [Click here](#)!
 - *Technical Manager*
 - An online fashion institute which educates and let the students to enter the industry by selling their production on its owned shopping platform.
     - Developing an online shop with image search ability
-    - Processed and analyzed <span style="background-color:#00EEB9">customers behavior data</span> to optimize our marketing strategies
+    - Processed and analyzed <span style="background-color:#00EEB9">customer's behavior data</span> to optimize our marketing strategies
     - Server Administrator of online classes
 
 - **TechTime**
