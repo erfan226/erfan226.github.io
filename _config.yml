@@ -21,14 +21,15 @@
 theme: minima
 
 title: Erfan Akhavan
-email: erfan226@gmail.com
+email: karim.akhavan@student.sharif.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  An AI Enthusiast who codes in Python, Julia, and sometimes a bit JavaScript & PHP (for web development).
+  An AI Enthusiast who codes in Python, Julia, and sometimes a bit JavaScript & PHP.
   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://erfan226.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: erfan226
 github_username:  erfan226
+linkedin_username: erfan226
 
 # Build settings
 
@@ -60,4 +61,5 @@ header_pages:
   - index.markdown
   - blog.markdown
   - projects.markdown
-  - about.markdown
+  - cv.markdown
+  # - about.markdown
