@@ -23,6 +23,8 @@ Looking for the PDF version? [Click here](#)!
     - Received a scholarship in the form of tuition waiver
 - **Academic Excellence Scholarship**
     - Received a discount on the tuition fee for the duration of education by University of Guilan
+- **Award for the Digital Section of HARKAT Festival in University of Guilan**
+    - I was head of the group which developed a content-sharing platform inside the university of Guilan.
 - **Funded by Guilan Science and Technology Park (GSTP) on developing a children-oriented software to learn programming**
 - **Funded by Guilan Science and Technology Park (GSTP) to develop an online shopping platform with Image similarity search by Guilan Science and Technology Park (GSTP)**
 
@@ -99,8 +101,6 @@ Looking for the PDF version? [Click here](#)!
 - Artificial intelligence and the revolution in the energy industry (detail of the publication to be added)
 
 ### Workshops & Courses
-- **Award for the Digital Section of HARKAT Festival in University of Guilan**
-    - I was head of the group which developed a content-sharing platform inside the university of Guilan.
 - **Javascript Developer Course in The Iran Technical and Vocational Training Organization (I.R.T.V.T.O)**
 - **IPM**
     - This 4-days workshop went from topics like NLP to visual learning in 3D environment
