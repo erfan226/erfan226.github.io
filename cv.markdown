@@ -25,8 +25,8 @@ Looking for the PDF version? [Click here](#)!
     - Received a discount on the tuition fee for the duration of education by University of Guilan
 - **Award for the Digital Section of HARKAT Festival in University of Guilan**
     - I was head of the group which developed a content-sharing platform inside the university of Guilan.
-- **Funded by Guilan Science and Technology Park (GSTP) on developing a children-oriented software to learn programming**
-- **Funded by Guilan Science and Technology Park (GSTP) to develop an online shopping platform with Image similarity search by Guilan Science and Technology Park (GSTP)**
+- **Funded by Guilan Science and Technology Park (GSTP) on developing a children-oriented software to learn coding**
+- **Funded by Guilan Science and Technology Park (GSTP) to develop an online shopping platform with Image similarity search**
 
 ### Work Exprience
 - **Saho Style** [[link]](https://sahostyle.com)
