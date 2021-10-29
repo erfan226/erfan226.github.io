@@ -55,7 +55,7 @@ Looking for the PDF version? [Click here](#)!
 
 - **Rivar**
 - *Frontend Web Developer*
-    - A platform to connect farmers directly to consumers.
+    - A platform to connect farmers directly to consumers
     - In charge of developing front-end of the website
 
 ### Skills
@@ -75,7 +75,7 @@ Looking for the PDF version? [Click here](#)!
 - **Other:** Photoshop; Illustrator; Prototype/Wire-framing Apps (e.g. Adobe XD)
 
 ### Publications
-- Karim, A.A., & Bahrani, M. (2021). *Product Review Classification Using Deep Learning.* Unpublished manuscript.
+- Karim, A.A., & Bahrani, M. (2021). Product Review Classification Using Deep Learning (submitted)
 
 ### Research Interests
 - Machine learning and deep learning; NLG, Text modification; Text comprehension; Opinion mining; Classification; Human-AI Interaction;  Add more stuff
