@@ -33,7 +33,7 @@ Looking for the PDF version? [Click here](https://github.com/erfan226/erfan226.g
 - **Funded by Guilan Science and Technology Park (GSTP) To Develop an Online Shopping Platform with Image Similarity Search**
 
 ### Publications
-- Karim, A.A., & Bahrani, M. (2022). Product Review Classification Using Deep Learning, The Second Conference On Artificial Intelligence and Soft Computing in the Humanities (accepted for publication) <!---Add pages of the published paper like: https://www.scribbr.com/apa-examples/conference-paper/-->
+- Karim, A.A., & Bahrani, M. (2022). Product Review Classification Using Deep Learning, *The Second Conference On Artificial Intelligence and Soft Computing in the Humanities* (accepted for publication) <!---Add pages of the published paper like: https://www.scribbr.com/apa-examples/conference-paper/ -->
 
 ### Work Experience
 - **Saho Style** [[link]](https://sahostyle.com) - 2020-Present
