@@ -11,7 +11,7 @@ permalink: /projects/
 * Unsupervised News Article Clustering [[code]](https://github.com/erfan226/Unsupervised-News-Article-Clustering)  
 <span class="more-desc">This project aims to cluster a news data-set to one of the four classes which are: Sports, Economics, Politics, and Culture using K-Means & Mixture Models in Python. The data-set is crawled from Tasnim News Agency and the crawler used for this task is written in Julia language.</span>
 
-* Product Review Classification [[paper to be published]](#) [[code]](https://github.com/erfan226/Product-Review-Classification)  
+* Product Review Classification [[paper **soon]](#) [[code]](https://github.com/erfan226/Product-Review-Classification) [[slides]](/res/Classification of Persian Product Reviews Using Neural Networks - Akhavan.pdf)
 <span class="more-desc">In this project I used deep learning on a data-set from Digikala, an Iranian E-commerce to correctly label the opinion customers over different products and whether they recommend it or not, or if they are not sure.</span>
 
 * Supervised Movie Classification [[code]](https://github.com/erfan226/Supervised-Movie-Classification)  
