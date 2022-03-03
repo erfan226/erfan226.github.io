@@ -214,7 +214,8 @@
   @include relative-font-size(1.5);
 }
 .more-desc {
-  color: #757575
+  color: #757575;
+  padding-inline-start: 30px;
 }
 
 
@@ -264,18 +265,24 @@
   }
 }
 
+.post-content li {
+  margin-top: 25px;
+}
 .badge {
   border-radius: 8px;
   padding: 5px 9px;
   font-size: 14px;
-  margin: 0px 3px;
+  margin-left: 28px;
 }
 .badge.purple {
   background-color: rgb(107, 16, 192);
 }
-.badge.purple a {
-  color: white;
-}
 .badge.orange {
   background-color: #ffc41d;
+}
+.badge.purple a, .badge.orange a {
+  color: white;
+}
+.badge a:hover {
+  text-decoration: none;
 }
