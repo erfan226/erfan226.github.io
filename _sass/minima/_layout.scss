@@ -215,7 +215,6 @@
 }
 .more-desc {
   color: #757575;
-  padding-inline-start: 30px;
 }
 
 
@@ -268,11 +267,14 @@
 .post-content li {
   margin-top: 25px;
 }
+.post-content ul {
+  margin-top: 0;
+}
 .badge {
   border-radius: 8px;
   padding: 5px 9px;
   font-size: 14px;
-  margin-left: 28px;
+  margin-left: 5px;
 }
 .badge.purple {
   background-color: rgb(107, 16, 192);
