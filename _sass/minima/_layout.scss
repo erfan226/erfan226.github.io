@@ -277,11 +277,17 @@
 .badge.purple {
   background-color: rgb(107, 16, 192);
 }
+.badge.pink {
+  background-color: #bd1080
+}
 .badge.orange {
   background-color: #ffc41d;
 }
-.badge.purple a, .badge.orange a {
+.badge.purple a, .badge.pink a {
   color: white;
+}
+.badge.orange a {
+  color: black;
 }
 .badge a:hover {
   text-decoration: none;
