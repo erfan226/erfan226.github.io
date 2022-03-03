@@ -266,9 +266,14 @@
 
 .badge {
   border-radius: 8px;
-  padding: 5px;
-  font-size: 12px;
+  padding: 5px 9px;
+  font-size: 14px;
+  margin: 0px 3px;
 }
 .badge.pink {
   background-color: palevioletred;
+  color: white;
+}
+.badge.orange {
+  background-color: #ffc41d;
 }

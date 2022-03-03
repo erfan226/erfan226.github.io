@@ -5,8 +5,9 @@ permalink: /projects/
 ---
 
 # Projects & Publications
-* Supervised Sentiment Analysis on Tweets [[code]](https://github.com/erfan226/Supervised-Sentiment-Analysis-on-Tweets) <span class="badge pink">code</span>
+* Supervised Sentiment Analysis on Tweets [[code]](https://github.com/erfan226/Supervised-Sentiment-Analysis-on-Tweets)
 <span class="more-desc">A simple class project to classify a sample data-set of 1200 tweets to either positive or negative class, based on the type of words used in those tweet.</span>
+<span class="badge pink"><a href="https://github.com/erfan226/Supervised-Sentiment-Analysis-on-Tweets">code</a></span>
 
 * Unsupervised News Article Clustering [[code]](https://github.com/erfan226/Unsupervised-News-Article-Clustering)  
 <span class="more-desc">This project aims to cluster a news data-set to one of the four classes which are: Sports, Economics, Politics, and Culture using K-Means & Mixture Models in Python. The data-set is crawled from Tasnim News Agency and the crawler used for this task is written in Julia language.</span>
