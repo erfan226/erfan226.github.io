@@ -6,11 +6,8 @@ permalink: /projects/
 
 # Projects & Publications
 * Persian Paraphrase Generation
-<p class="more-desc">A T5 model for generating paraphrases of Persian sentences. Trained on the Tapaco dataset.​
+<p class="more-desc">A T5 model for generating paraphrases of Persian sentences. Trained on the Tapaco dataset.</p>
 <span class="badge orange"><a href="https://huggingface.co/erfan226/persian-t5-paraphraser">huggingface</a></span>
-
-.</p>
-<span class="badge purple"><a href="https://github.com/erfan226/Supervised-Sentiment-Analysis-on-Tweets">code</a></span>
 
 * Supervised Sentiment Analysis on Tweets
 <p class="more-desc">A class project to classify a sample data-set of 1200 tweets to either positive or negative class, based on the type of words used in those tweet.</p>
