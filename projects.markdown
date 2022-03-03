@@ -5,6 +5,13 @@ permalink: /projects/
 ---
 
 # Projects & Publications
+* Persian Paraphrase Generation
+<p class="more-desc">A T5 model for generating paraphrases of Persian sentences. Trained on the Tapaco dataset.​
+<span class="badge orange"><a href="https://huggingface.co/erfan226/persian-t5-paraphraser">huggingface</a></span>
+
+.</p>
+<span class="badge purple"><a href="https://github.com/erfan226/Supervised-Sentiment-Analysis-on-Tweets">code</a></span>
+
 * Supervised Sentiment Analysis on Tweets
 <p class="more-desc">A class project to classify a sample data-set of 1200 tweets to either positive or negative class, based on the type of words used in those tweet.</p>
 <span class="badge purple"><a href="https://github.com/erfan226/Supervised-Sentiment-Analysis-on-Tweets">code</a></span>
@@ -17,7 +24,7 @@ permalink: /projects/
 <p class="more-desc">In this project I used deep learning on a data-set from Digikala, an Iranian E-commerce to correctly label the review of customers over a range of products and whether they recommend it or not, or if they are unsure about it.</p>
 <div class="badge-container"><span class="badge pink"><a href="#">paper **soon</a></span>
 <span class="badge purple"><a href="https://github.com/erfan226/Product-Review-Classification">code</a></span>
-<span class="badge orange"><a href="https://github.com/erfan226/erfan226.github.io/blob/master/res/Product_Review_Classification_slides.pdf">slides</a></span></div>
+<span class="badge green"><a href="https://github.com/erfan226/erfan226.github.io/blob/master/res/Product_Review_Classification_slides.pdf">slides</a></span></div>
 
 * Supervised Movie Classification
 <p class="more-desc">The goal of this project is to classify the genre of movies by their plots. 4000 documents were used to train the current model. Data-set used for this task was obtained from Kaggle.</p>

@@ -283,10 +283,13 @@
 .badge.orange {
   background-color: #ffc41d;
 }
+.badge.green {
+  background-color: #1dff68;
+}
 .badge.purple a, .badge.pink a {
   color: white;
 }
-.badge.orange a {
+.badge.orange a, .badge.green a {
   color: black;
 }
 .badge a:hover {
