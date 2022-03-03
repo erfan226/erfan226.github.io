@@ -15,9 +15,9 @@ permalink: /projects/
 
 * Product Review Classification [[paper **soon]](#) [[code]](https://github.com/erfan226/Product-Review-Classification) [[slides]](https://github.com/erfan226/erfan226.github.io/blob/master/res/Product_Review_Classification_slides.pdf)
 <p class="more-desc">In this project I used deep learning on a data-set from Digikala, an Iranian E-commerce to correctly label the review of customers over a range of products and whether they recommend it or not, or if they are unsure about it.</p>
-<span class="badge pink"><a href="https://github.com/erfan226/Product-Review-Classification">paper **soon</a></span>
+<div style="margin-left: 13px"><span class="badge pink"><a href="https://github.com/erfan226/Product-Review-Classification">paper **soon</a></span>
 <span class="badge purple"><a href="https://github.com/erfan226/Product-Review-Classification">code</a></span>
-<span class="badge orange"><a href="https://github.com/erfan226/erfan226.github.io/blob/master/res/Product_Review_Classification_slides.pdf">slides</a></span>
+<span class="badge orange"><a href="https://github.com/erfan226/erfan226.github.io/blob/master/res/Product_Review_Classification_slides.pdf">slides</a></span></div>
 
 * Supervised Movie Classification [[code]](https://github.com/erfan226/Supervised-Movie-Classification)  
 <p class="more-desc">The goal of this project is to classify the genre of movies by their plots. 4000 documents were used to train the current model. Data-set used for this task was obtained from Kaggle.</p>
