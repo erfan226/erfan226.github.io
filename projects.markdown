@@ -15,7 +15,7 @@ permalink: /projects/
 
 * Product Review Classification
 <p class="more-desc">In this project I used deep learning on a data-set from Digikala, an Iranian E-commerce to correctly label the review of customers over a range of products and whether they recommend it or not, or if they are unsure about it.</p>
-<div style="margin-left: 13px"><span class="badge pink"><a href="#">paper **soon</a></span>
+<div class="badge-container"><span class="badge pink"><a href="#">paper **soon</a></span>
 <span class="badge purple"><a href="https://github.com/erfan226/Product-Review-Classification">code</a></span>
 <span class="badge orange"><a href="https://github.com/erfan226/erfan226.github.io/blob/master/res/Product_Review_Classification_slides.pdf">slides</a></span></div>
 

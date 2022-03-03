@@ -272,7 +272,7 @@
   border-radius: 8px;
   padding: 5px 9px;
   font-size: 14px;
-  margin-left: 5px;
+  margin-left: 27px;
 }
 .badge.purple {
   background-color: rgb(107, 16, 192);
@@ -291,4 +291,10 @@
 }
 .badge a:hover {
   text-decoration: none;
+}
+.badge-container {
+  margin-left: 13px;
+}
+.badge-container .badge {
+  margin-left: 5px;
 }
