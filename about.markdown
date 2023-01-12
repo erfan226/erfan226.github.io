@@ -7,9 +7,12 @@ permalink: /about/
 <h2 class="post-list-heading">Who am I?</h2>
 I am Erfan (Karim) Akhavan. I pursued my Master's in Computational Linguistics from Sharif University of Technology (SUT), with [Dr. Hossein Sameti](http://sharif.edu/~sameti/) as my supervisor. My focus of study was Persian language style transfer. I completed my BA in English Language and Literature from the University of Guilan in September 2019.
 
+<h2>My Stack</h2>
+I Code in Python, PHP, Javascript, and Bash. My focus is on Automation, Web Services, and AI (esp. NLP).
+
 <h2 class="post-list-heading">My Path</h2>
 <figure style="margin: 0 auto; text-align:center">
-    <img width="550" src="/Users/erfan/Desktop/erfan226.github.io/res/my_path.jpg" alt="My Path in a frame. From HTML to web services...">
+    <img width="550" src="/res/my_path.jpg" alt="My Path in a frame. From HTML to web services...">
     <figcaption>My Path in a frame...</figcaption>
 </figure>
 
