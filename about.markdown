@@ -4,9 +4,20 @@ title: About
 permalink: /about/
 ---
 
-I am a Master's student at Sharif University of Technology's Computational Linguistics and a member of [Speech Processing Laboratory (SPL)](http://spl.ce.sharif.edu/). I am advised by [Dr. Hossein Sameti](http://sharif.edu/~sameti/).
+<h2 class="post-list-heading">Who am I?</h2>
+I am Erfan (Karim) Akhavan. I pursued my Master's in Computational Linguistics from Sharif University of Technology (SUT), with [Dr. Hossein Sameti](http://sharif.edu/~sameti/) as my supervisor. My focus of study was Persian language style transfer. I completed my BA in English Language and Literature from the University of Guilan in September 2019.
 
-My research focuses on style transfer in Persian language.
-I received my BA on English Language and Literature from Univesity of Guilan in Sep 2019.
+<h2 class="post-list-heading">My Path</h2>
+<figure style="margin: 0 auto; text-align:center">
+    <img width="550" src="/Users/erfan/Desktop/erfan226.github.io/res/my_path.jpg" alt="My Path in a frame. From HTML to web services...">
+    <figcaption>My Path in a frame...</figcaption>
+</figure>
 
-If you'd like to get in contact with me, you can email me at [karim.akhavan@student.sharif.edu](mailto:karim.akhavan@student.sharif.edu).
+<p>Beginning my journey with web application development, I gained experience with HTML, CSS, and later, JavaScript. After gaining more familiarity with the language, I became acquainted with modern JavaScript libraries such as ReactJS, and began working on various projects, including a prototype of an educational game that taught coding to children. </p>
+<p>As I am more oriented towards logical thinking, in 2016 I decided to shift my focus to back-end development, learning PHP and coding WordPress plugins and themes, followed by Python (Django & Flask). Since then, I have held numerous roles and worked on various freelance projects with Python. My attraction to Artificial Intelligence and its automation capabilities ultimately led me to pursue a Master’s in Computational Linguistics in 2019, utilizing Python to explore research projects in Natural Language Processing.
+</p>
+<p>My enthusiasm remains strongly in line with developing web services that can offer a vast range of features to end-users.
+</p>
+
+<h2 class="post-list-heading">Contact Me</h2>
+If you'd like to get in touch with me, do not hesitate to email me at [erfan226@icloud.com](mailto:karim.akhavan@sharif.edu) or [karim.akhavan@sharif.edu](mailto:karim.akhavan@sharif.edu).
