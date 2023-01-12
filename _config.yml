@@ -23,7 +23,7 @@ theme: minima
 title: Erfan Akhavan
 email: karim.akhavan@sharif.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  I Code in Python, PHP, Javascript, and Bash. My focus is on Automation, Web Services, and AI (esp. NLP).
+  Personal Site
   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://erfan226.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
