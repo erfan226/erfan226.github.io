@@ -1,14 +1,10 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
 title: Home
 ---
-<h2 class="post-list-heading">About Me</h2>
-I am a Master's student at Sharif University of Technology's Computational Linguistics and a member of [Speech and Language Processing Laboratory (SLPL)](http://spl.ce.sharif.edu/). I am advised by [Dr. Hossein Sameti](http://sharif.edu/~sameti/).
+<h2 class="post-list-heading">Who am I?</h2>
+I pursued my Master's in Computational Linguistics from Sharif University of Technology (SUT), with [Dr. Hossein Sameti](http://sharif.edu/~sameti/) as my supervisor. My focus of study was Persian language style transfer. I completed my BA in English Language and Literature from the University of Guilan in September 2019.
 
-My research focuses on style transfer in Persian language.
-I received my BA from Univesity of Guilan in Sep 2019.
-
-If you'd like to get in touch with me, do not hesitate to email me at [karim.akhavan@student.sharif.edu](mailto:karim.akhavan@student.sharif.edu).
+If you'd like to get in touch with me, do not hesitate to email me at [erfan226@icloud.com](mailto:karim.akhavan@sharif.edu) or [karim.akhavan@sharif.edu](mailto:karim.akhavan@sharif.edu).
