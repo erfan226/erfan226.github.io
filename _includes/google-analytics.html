@@ -10,11 +10,11 @@ if(!(window.doNotTrack === "1" || navigator.doNotTrack === "1" || navigator.doNo
 }
 </script> -->
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-RW8H5PH5Y7"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-RW8H5PH5Y7');
+  gtag('config', '{{ site.google_analytics }}');
 </script>  
