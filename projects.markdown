@@ -4,7 +4,12 @@ title: Projects
 permalink: /projects/
 ---
 
-# Projects & Publications
+# AI Projects & Publications
+I have included a number of Artificial Intelligence projects that I have completed recently:
+* Persian Formality Style Transfer
+<p class="more-desc">This project was done as my Master's thesis which involved a model trained in an unsupervised fashion to convert informal Persian into its formal equivalent.</p>
+<span class="badge orange"><a href="https://huggingface.co/erfan226/persian-t5-formality-transfer">huggingface</a></span>
+
 * Persian Paraphrase Generation
 <p class="more-desc">A T5 model for generating paraphrases of Persian sentences. Trained on the Tapaco dataset.</p>
 <span class="badge orange"><a href="https://huggingface.co/erfan226/persian-t5-paraphraser">huggingface</a></span>
