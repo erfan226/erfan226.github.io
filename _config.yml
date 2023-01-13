@@ -30,7 +30,7 @@ url: "https://erfan226.github.io/" # the base hostname & protocol for your site,
 twitter_username: erfan226
 github_username:  erfan226
 linkedin_username: erfan226
-
+google_analytics: "<G-RW8H5PH5Y7"
 # Build settings
 
 plugins:
