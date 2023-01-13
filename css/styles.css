@@ -84,3 +84,7 @@ main > .tagline span.underline {
   margin: 1.5rem 0;
   font-weight: 100;
 }
+
+.site-header {
+  background: rgb(182, 182, 182)
+}
