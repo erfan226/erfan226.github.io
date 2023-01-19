@@ -9,10 +9,11 @@ I am Erfan (Karim) Akhavan, a Software Developer specializing in Web Development
 I pursued my Master's in Computational Linguistics from Sharif University of Technology (SUT), with [Dr. Hossein Sameti](http://sharif.edu/~sameti/) as my supervisor. My focus of the study was style transfer in Persian language. Before that, I completed my BA in English Language and Literature from the University of Guilan in September 2019.
 
 <h2>My Stack</h2>
-Languages: I Code in Python, PHP, Javascript, and Bash. My focus is on Automation, Web Services, and AI (esp. NLP).
-IDE: VS Code & PyCharm (Does CLI count as IDE? Well, it should...)
-Frameworks: Django, Flask, PyTorch
-Databases: MySQL, PostgreSQL, MongoDB (rarely)
+
+* Languages: I Code in Python, PHP, Javascript, and Bash
+* IDE: VS Code & PyCharm (Does CLI count as IDE? Well, it should...)
+*  Frameworks: Django, Flask, and PyTorch
+Databases: MySQL, PostgreSQL, and MongoDB (rarely)
 
 <h2 class="post-list-heading">My Path</h2>
 <figure style="margin: 0 auto; text-align:center">
