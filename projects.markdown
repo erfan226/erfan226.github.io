@@ -5,7 +5,18 @@ permalink: /projects/
 ---
 
 # AI Projects & Publications
-I have included a number of Artificial Intelligence projects that I have completed recently:
+Here is a list of the research projects (in AI) that I have published:
+
+* Transformer as a Regression Model for Fine-Grained Scoring of Textual Semantic Relations
+<p class="more-desc">This paper and the accompanying code were utilized in the 18th International Workshop on Semantic Evaluation (SemEval-2024) for the task of automatically detecting the degree of semantic relatedness between pairs of sentences.</p>
+<div class="badge-container"><span class="badge pink"><a href="#">paper</a></span>
+<span class="badge purple"><a href="https://github.com/erfan226/Sharif-STR">code</a></span></div>
+
+* A Transformer-Based Approach to Detect Machine Generated Text 
+<p class="more-desc">This paper and the respective code were utilized in the 18th International Workshop on Semantic Evaluation (SemEval-2024) for the task of detecting machine-generated text.</p>
+<div class="badge-container"><span class="badge pink"><a href="https://arxiv.org/abs/2407.11774">paper</a></span>
+<span class="badge purple"><a href="https://github.com/Sharif-SLPL/Sharif-MGTD">code</a></span></div>
+
 * Persian Formality Style Transfer
 <p class="more-desc">This project was done as my Master's thesis which involved a model trained in an unsupervised fashion to convert informal Persian into its formal equivalent.</p>
 <span class="badge orange"><a href="https://huggingface.co/erfan226/persian-t5-formality-transfer">huggingface</a></span>
@@ -24,7 +35,7 @@ I have included a number of Artificial Intelligence projects that I have complet
 
 * Product Review Classification
 <p class="more-desc">In this project I used deep learning on a data-set from Digikala, an Iranian E-commerce to correctly label the review of customers over a range of products and whether they recommend it or not, or if they are unsure about it.</p>
-<div class="badge-container"><span class="badge pink"><a href="#">paper **soon</a></span>
+<div class="badge-container">
 <span class="badge purple"><a href="https://github.com/erfan226/Product-Review-Classification">code</a></span>
 <span class="badge green"><a href="https://github.com/erfan226/erfan226.github.io/blob/master/res/Product_Review_Classification_slides.pdf">slides</a></span></div>
 
