@@ -9,7 +9,7 @@ Here is a list of the research projects (in AI) that I have published:
 
 * Transformer as a Regression Model for Fine-Grained Scoring of Textual Semantic Relations
 <p class="more-desc">This paper and the accompanying code were utilized in the 18th International Workshop on Semantic Evaluation (SemEval-2024) for the task of automatically detecting the degree of semantic relatedness between pairs of sentences.</p>
-<div class="badge-container"><span class="badge pink"><a href="#">paper</a></span>
+<div class="badge-container"><span class="badge pink"><a href="https://arxiv.org/abs/2407.12426">paper</a></span>
 <span class="badge purple"><a href="https://github.com/erfan226/Sharif-STR">code</a></span></div>
 
 * A Transformer-Based Approach to Detect Machine Generated Text 
